@@ -21,8 +21,7 @@ export function Links() {
                 <p
                     className={`${inter.className} m-0 max-w-[30ch] text-sm opacity-50`}
                 >
-                    Learn about projects I have done.
-
+Learn about me
 
                 </p>
             </a>
