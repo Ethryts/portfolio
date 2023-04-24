@@ -48,7 +48,7 @@ function NeovimConfiguration() {
             <div className="basis-3/4 ">
 As a software developer, I worked on developing configuration files for Neovim, a modern Lua implementation of Vim. I started by researching and studying the Neovim documentation to understand its features and capabilities.
 
-Then, I developed a configuration file that leveraged the full potential of Neovim's functionality, including the use of plugins, custom mappings, and auto-completion. I also implemented various productivity-enhancing tools, such as syntax highlighting, code folding, and fuzzy searching.
+Then, I developed a configuration file that leveraged the full potential of Neovims functionality, including the use of plugins, custom mappings, and auto-completion. I also implemented various productivity-enhancing tools, such as syntax highlighting, code folding, and fuzzy searching.
             </div>
 
             <h1 className="basis-1/4 text-3xl bg-gray-400">
