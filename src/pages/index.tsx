@@ -44,6 +44,7 @@ export default function Home() {
             <Links />
             <AboutMe />
             <Projects />
+            <div className="text-5xl w-full text-center">Experience</div>
             <WorkExperience />
             <Schooling />
             <MyFooter />
@@ -56,7 +57,6 @@ export default function Home() {
 
 function ThisSite() {
     return (
-
         <div>
             <div>
                 This site was made with:

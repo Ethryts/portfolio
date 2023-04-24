@@ -9,8 +9,10 @@ export function Schooling() {
 
 
             <div className="basis-3/4">
-                Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt duis officia eiusmod. Aliqua reprehenderit commodo ex non excepteur duis sunt velit enim. Voluptate laboris sint cupidatat ullamco ut ea consectetur et est culpa et culpa duis.
+                At Saskatchewan Polytechnic, I gained hands-on experience managing computer systems, both hardware and software. As part of my CST program, I learned how to administer large computer networks, automate deployment, and handle large datasets using VBA, Excel, Access, and Java.
 
+                In addition to systems management, I also gained experience in software development. Over the span of a year and a half, my team and I developed multiple large software projects for both mock internal clients and real-world small businesses, using agile methodologies and small team development. We cooperated with 5-8 other developers to achieve the desired software solution.
+                I also have experience designing and developing web applications using web design principles and web-first development. I have utilized web development technologies such as JavaScript, TypeScript, React, Vue, and object-relational mappers to develop reactive web applications. I have designed front-end applications, routing, and developed custom APIs, and have worked with multiple front-end and back-end frameworks.
             </div>
 
             <h1 className="basis-1/4 text-3xl">

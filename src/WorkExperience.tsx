@@ -1,7 +1,7 @@
 export function WorkExperience() {
     return (
         <div
-            id='schooling'
+            id='workexperience'
             className="
             flex space-x-10 m-20
             "
@@ -14,10 +14,15 @@ export function WorkExperience() {
             </h1>
 
 
-            <div className="basis-3/4
-            bg-orange-500">
-                Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt duis officia eiusmod. Aliqua reprehenderit commodo ex non excepteur duis sunt velit enim. Voluptate laboris sint cupidatat ullamco ut ea consectetur et est culpa et culpa duis.
+            <div className="basis-3/4">
 
+                <p className="m-5">
+                    As a summer intern at Nutrien, I quickly learned their internal systems and python development principles to help supercharge team efforts. I created novel solutions to unblock long-term business requests and designed and developed document templates and integration scripts for the dynamic creation of inspection documents for long-term storage of at-risk materials to comply with audits from the United States Department of Defence.
+                </p>
+                <p className="m-5">
+
+                    These tasks earned me a part-time position as a software developer on the team. I continued to help improve the developer experience through various DevOps improvements. These included improving test-ability, error handling, and logging, as well as opening up avenues for the generation of an improved standard library for an internal Safety Health and Environmental codebase.
+                </p>
             </div>
 
         </div>
