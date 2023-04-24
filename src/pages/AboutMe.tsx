@@ -31,7 +31,7 @@ export default function AboutMe() {
 
 function HeadShot() {
     return (
-        <Image src="portfolio/Ethan Hrytsak Headshot.jpg" alt='Ethan Hrytsak Headshot'
+        <Image src="Ethan Hrytsak Headshot.jpg" alt='Ethan Hrytsak Headshot'
             className='rounded-lg'
             width={200}
             height={200}
