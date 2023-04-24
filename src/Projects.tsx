@@ -86,7 +86,7 @@ function TLDExpress() {
             <div className='flex'
             >
                 <div className="basis-1/2 relateive bg-fixed bg-cover h-52 w-52"
-                    style={{ backgroundImage: "Ethan Hrytsak Headshot.jpg" }}
+                    style={{ backgroundImage: "\Ethan Hrytsak Headshot.jpg" }}
 
                 />
                 <h1 className="basis-1/2  text-xl">
